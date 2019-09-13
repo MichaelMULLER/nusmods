@@ -142,7 +142,7 @@
     "date-fns": "2.2.1",
     "downshift": "3.3.1",
     "ical-generator": "https://github.com/ZhangYiJiang/ical-generator.git#ed6928fe",
-    "immer": "3.3.0",
+    "immer": "4.0.0",
     "json2mq": "0.2.0",
     "leaflet": "1.5.1",
     "leaflet-gesture-handling": "1.1.8",
@@ -166,7 +166,7 @@
     "react-router-dom": "5.0.1",
     "react-scrollspy": "3.4.0",
     "redux": "4.0.4",
-    "redux-persist": "5.10.0",
+    "redux-persist": "6.0.0",
     "redux-thunk": "2.3.0",
     "reselect": "4.0.0",
     "searchkit": "2.3.2"
